@@ -46,10 +46,5 @@ The dataset contains health-related information such as:
 5. Ashrakat Sabra Mohamed
 
 
-
-
-- `diabetes .csv` — Original dataset
-- `cleann Data.csv` — Cleaned dataset
-- `Project_NTI(1).ipynb` — Google Colab notebook
 - `README.md` — Project documentation
 
