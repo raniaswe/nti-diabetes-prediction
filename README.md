@@ -40,7 +40,7 @@ The dataset contains health-related information such as:
 ## Team Members
 
 1. Malak Atallh Hussein
-2. Rania Mohamed Hamed
+2. Rania Mohamed Hamad
 3. Nadine Wael Hamdy
 4. Habiba Mohamed Sayed
 5. Ashrakat Sabra Mohamed
