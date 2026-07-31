@@ -1,15 +1,15 @@
 # Diabetes Prediction Project
 
-This project is a Python-based Machine Learning project using a diabetes dataset to predict whether a person is likely to have diabetes based on different health-related factors.
+This project is a Python-based Machine Learning project using a diabetes dataset.
 
-## Project Overview
+The project focuses on exploring, cleaning, and visualizing diabetes data, then using a Logistic Regression classification model to predict the diabetes outcome based on different health-related factors.
 
-The project includes:
+## Project Workflow
 
 - Data Exploration
 - Data Cleaning
 - Data Visualization
-- Logistic Regression Classification Model
+- Logistic Regression Classification
 - Model Evaluation
 
 ## Technologies Used
@@ -23,15 +23,32 @@ The project includes:
 
 ## Machine Learning Model
 
-Logistic Regression was used as a supervised classification model to predict the diabetes outcome.
+Logistic Regression is used as a supervised machine learning classification model to predict whether the diabetes outcome is negative or positive based on the available health-related features.
 
 ## Dataset
 
-The dataset contains health-related features such as glucose level, blood pressure, insulin, BMI, age, and other factors.
+The dataset contains health-related information such as:
+
+- Glucose level
+- Blood pressure
+- Skin thickness
+- Insulin
+- BMI
+- Age
+- Other health-related factors
+
+## Team Members
+
+1. Malak Atallh Hussein
+2. Rania Mohamed Hamed
+3. Nadine Wael Hamdy
+4. Habiba Mohamed Sayed
+5. Ashrakat Sabra Mohamed
 
 ## Project Files
 
-- `diabetes (1).csv` — Original dataset
+- `diabetes .csv` — Original dataset
 - `cleann Data.csv` — Cleaned dataset
-- `Diabetes_Prediction_Project.ipynb` — Google Colab notebook
-- `README.md` — Project description
+- `Project_NTI(1).ipynb` — Google Colab notebook
+- `README.md` — Project documentation
+
